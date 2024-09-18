@@ -1,3 +1,3 @@
 # querky-demo
-this is my first  git repository
-author- Arpita
+this is my first  git repository.
+Author- Arpita
